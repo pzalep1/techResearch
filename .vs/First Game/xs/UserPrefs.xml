@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6C0CB442-3A42-5422-D7FE-F0DFA540D62F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ColumnPool.cs">
+    <Files>
+      <File FileName="Assets/Bird.cs" Line="40" Column="33" />
+      <File FileName="Assets/GameController.cs" />
+      <File FileName="Assets/ScrollingComponent.cs" />
+      <File FileName="Assets/RepeatingBackground.cs" />
+      <File FileName="Assets/Column.cs" Line="11" Column="49" />
+      <File FileName="Assets/ColumnPool.cs" Line="36" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="First Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ColumnPool.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="90f7f199-656d-4a42-8e96-1d86d6f0ba0f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
